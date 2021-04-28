@@ -13,3 +13,4 @@ This app counts the Nucleotide composition of the query DNA
 
 ## Input Box
 
+st.header('Enter DNA Sequence')
